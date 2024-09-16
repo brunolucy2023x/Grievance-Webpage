@@ -10,7 +10,8 @@ Welcome to the Grievance App, an intuitive platform designed to streamline the p
 Deployed Site**: Visit the Grievance App
 Final Project Blog Article: Read the Blog Article
 Author LinkedIn: Bruno Owino
-Installation
+
+**Installation**
 To get the Grievance App up and running on your local machine, follow these steps:
 
 **Clone the Repository:**
@@ -25,22 +26,22 @@ Copy code
 cd grievance-app
 Install Dependencies:
 
-Ensure you have Node.js and npm installed. Then run:
+**Ensure you have Node.js and npm installed. Then run:**
 
 bash
 Copy code
 npm install
 Set Up Environment Variables:
 
-Create a .env file in the root directory and add your environment variables. Example:
-
+**Create a .env file in the root directory and add your environment variables. Example:
+**
 makefile
 Copy code
 DATABASE_URL=your_database_url
 SECRET_KEY=your_secret_key
 Run Migrations:
 
-If your project uses migrations, apply them with:
+**If your project uses migrations, apply them with:**
 
 bash
 Copy code
@@ -52,26 +53,26 @@ Copy code
 npm start
 The app should now be running on http://localhost:3000.
 
-Usage
-To use the Grievance App:
+**Usage
+To use the Grievance App:**
 
-Sign Up / Log In:
+**Sign Up / Log In:**
 
 Create an account or log in with your credentials.
-Submit a Grievance:
+**Submit a Grievance:**
 
 Navigate to the 'Submit Grievance' page, fill in the required details, and submit your complaint.
-Track Status:
+**Track Status:**
 
 Go to the 'My Grievances' section to view the status of your submitted complaints.
-Receive Updates:
+**Receive Updates:**
 
 Check for notifications and updates regarding your grievances.
 
-Contributing
+**Contributing**
 We welcome contributions to improve the Grievance App. To contribute:
 
-Fork the Repository:
+**Fork the Repository:**
 
 Click on the 'Fork' button on GitHub.
 Create a Feature Branch:
@@ -81,7 +82,7 @@ Copy code
 git checkout -b feature/your-feature
 Make Your Changes:
 
-Commit your changes and push to your forked repository.
+**Commit your changes and push to your forked repository.**
 bash
 Copy code
 git add .
@@ -104,7 +105,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-For questions or support, please reach out to:
+**For questions or support, please reach out to:**
 
 - **Email**: [brunookoth44@gmail.com](mailto:brunookoth44@gmail.com)
 - **Phone**: +254 796531625
@@ -114,6 +115,7 @@ For questions or support, please reach out to:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
+**
 Thank you for using the Grievance App. Together, we can drive positive change!
-
+**
+**
