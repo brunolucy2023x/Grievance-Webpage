@@ -1,7 +1,7 @@
 # Grievance App
 
 ## Overview
-![Uploading image.png…]()
+c.jpg
 
 
 Welcome to the **Grievance App**, developed by **Bruno Owino**. This application is designed to streamline the process of voicing grievances, ensuring that concerns are effectively addressed and resolved. Whether you’re an employee facing workplace issues, a citizen reporting public service problems, or a student dealing with academic concerns, our app is here to facilitate change and improvement.
