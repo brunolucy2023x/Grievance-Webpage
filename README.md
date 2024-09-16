@@ -1,19 +1,19 @@
-Grievance App
+**Grievance App**
 
-Introduction
+**Introduction**
 
 
 Welcome to the Grievance App, an intuitive platform designed to streamline the process of filing and managing grievances. This app allows users to submit their complaints, track the status of their issues, and receive updates from the relevant authorities. Whether you're an employee looking to voice concerns or a manager needing to address issues efficiently, this app has you covered.
 
 
 
-Deployed Site: Visit the Grievance App
+Deployed Site**: Visit the Grievance App
 Final Project Blog Article: Read the Blog Article
 Author LinkedIn: Bruno Owino
 Installation
 To get the Grievance App up and running on your local machine, follow these steps:
 
-Clone the Repository:
+**Clone the Repository:**
 
 bash
 Copy code
